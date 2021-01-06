@@ -2908,7 +2908,7 @@ input, select, textarea {
 	}
 
 	header {
-		cursor: default;
+		display: none;
 	}
 
 		header > .date {
