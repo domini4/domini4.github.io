@@ -1,6 +1,6 @@
 # James Dominic
 
-[Home](index.md)&nbsp[Publications](Publications.md)
+[Home](index.md)&nbsp;[Publications](Publications.md)
 
 <img align="left" src="images/domini4.JPG">
 
