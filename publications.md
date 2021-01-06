@@ -25,4 +25,4 @@ _In Proceedings of the 2nd International Workshop on Bots in Software Engineerin
 
 **Exploring Effects of Screen-Fixed and World-Fixed Annotation on Navigation in Virtual Reality**<br/>
 Dominic, J., Robb, A.<br/>
-_In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (IEEEVR' 20)_<br/>
+_In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (IEEEVR'20)_<br/>
