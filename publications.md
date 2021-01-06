@@ -1,6 +1,6 @@
 <h1>James Dominic - Peer-Reviewed Publications</h1>
 
-[Home](index.md)
+[Home](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Publications](publications.md)
 
 
 **How a Remote Video Game Coding Camp Improved Autistic College Students**<br/>
