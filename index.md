@@ -1,6 +1,6 @@
 # James Dominic
 
-<img align="left" src="images/IMG_1615.JPG">
+<img align="left" src="images/domini4.JPG">
 
 I am a Ph.D. student at the School of Computing, Clemson University. I work with Dr. Paige Rodeghero at the Human Factors Software Engineering (HFSE) lab. My main research interests are _onboarding software engineers_, _machine learning in software engineering_, _virtual reality in software engineering_, and _software engineering for autism_.
 
