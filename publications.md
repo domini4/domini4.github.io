@@ -22,3 +22,7 @@ _In Proceedings of the International Conference on Software and Systems Process 
 **Conversational Bot for Newcomers Onboarding to Open Source Projects**<br/>
 Dominic, J., Houser, J., Steinmacher, I., Ritter, C., Rodeghero, P.<br/>
 _In Proceedings of the 2nd International Workshop on Bots in Software Engineering (BoTSE'20)_<br/>
+
+**Exploring Effects of Screen-Fixed and World-Fixed Annotation on Navigation in Virtual Reality**<br/>
+Dominic, J., Robb, A.<br/>
+_In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (IEEEVR' 20)_<br/>
