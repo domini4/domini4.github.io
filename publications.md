@@ -4,6 +4,7 @@
 
 
 **How a Remote Video Game Coding Camp Improved Autistic College Students**
+
 Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P.
 _In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21)_
 
