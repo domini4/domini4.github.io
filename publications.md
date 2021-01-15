@@ -30,5 +30,3 @@ _In Proceedings of the IEEE/ACM 42nd International Conference on Software Engine
 **Exploring Effects of Screen-Fixed and World-Fixed Annotation on Navigation in Virtual Reality**<br/>
 **Dominic, J.**, Robb, A.<br/>
 _In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (IEEEVR'20)_<br/>
-
-![#FF0000](https://placehold.it/15/FF0000/000000?text=+)
