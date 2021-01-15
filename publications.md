@@ -5,11 +5,11 @@
 
 **How a Remote Video Game Coding Camp Improved Autistic College Students**<br/>
 Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P.<br/>
-_In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21)_<br/>
+_In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21)_<br/> ```diff**! Best Paper Award**```
 
 **Remote Pair Programming in Virtual Reality**<br/>
 Dominic, J., Tubre, B., Ritter, C., Houser, J., Smith, C., Rodeghero, P.<br/>
-_International Conference on Software Maintenance and Evolution (ICSME' 20)_<br/>
+_International Conference on Software Maintenance and Evolution (ICSME'20)_<br/>
 
 **Program Comprehension in Virtual Reality**<br/>
 Dominic, J., Tubre, B., Houser, J., Ritter, C., Kunkel, D., Rodeghero, P.<br/>
@@ -29,4 +29,4 @@ _In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces
 
 **Human-AI Partnerships for Chaos Engineering**<br/>
 Canonico, LB., Vakeel, V., Dominic, J., Rodeghero, P.<br/>
-_In Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops (ICSEW'20)_<br/>
+_In Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops (RAISE'20)_<br/>
