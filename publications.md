@@ -5,7 +5,7 @@
 
 **How a Remote Video Game Coding Camp Improved Autistic College Students**<br/>
 Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P.<br/>
-_In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21)_<br/> ```diff**! Best Paper Award**```
+_In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21)_<br/> <p style='color:red'>Best Paper Award</p>
 
 **Remote Pair Programming in Virtual Reality**<br/>
 Dominic, J., Tubre, B., Ritter, C., Houser, J., Smith, C., Rodeghero, P.<br/>
