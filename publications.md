@@ -3,6 +3,14 @@
 [Home](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Publications](publications.md)
 
 
+**The human experience of comprehending source code in virtual reality**<br/>
+**Dominic, J.**, Tubre, B., Kunkel, D., Rodeghero, P.<br/>
+_Empirical Software Engineering 27 (7), 173_<br/>
+
+**Lesson Materials:" Can You Help Me?" An Experience Report of Teamwork in a Game Coding Camp for Autistic High School Students**<br/>
+Moster, M., Kokinda, E., Re, M., **Dominic, J.**, Lehmann, J., Begel, A., Rodeghero, P.<br/>
+_In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21) **Best Paper Award**_<br/>
+
 **How a Remote Video Game Coding Camp Improved Autistic College Students**<br/>
 Begel, A., **Dominic, J.**, Phillis, C., Beeson, T., Rodeghero, P.<br/>
 _In Proceedings of the 51st Technical Symposium on Computer Science Education (SIGCSE'21) **Best Paper Award**_<br/>
